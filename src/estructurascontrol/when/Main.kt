@@ -1,4 +1,5 @@
 package estructurascontrol.`when`
 
-class Main {
+fun main() {
+    println("***** when demo ***** ")
 }
